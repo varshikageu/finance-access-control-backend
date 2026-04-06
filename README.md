@@ -35,8 +35,8 @@ node server.js
 The system will automatically generate a finance.sqlite file and seed a default Admin user on the first run.
 ```
 ### 3. Default Admin Credentials (For Testing)
-Email: admin@finance.com
-Password: adminpassword
+**Email:** `admin@finance.com`
+**Password:** `adminpassword`
 
 | Feature | Admin | Analyst | Viewer |
 | :--- | :---: | :---: | :---: |
